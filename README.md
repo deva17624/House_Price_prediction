@@ -14,9 +14,10 @@ This model can help buyers, sellers, and real estate companies make data-driven 
 In this step the dataset is imported into the environment.
 
 
-* Read the dataset from a file (CSV, Excel, database, etc.)
+* Read the dataset from a file (CSV, Excel, database, etc.) isong read_filetpe.
+
 * Store the dataset in a structured format such as a DataFrame
-* Verify that the dataset loaded correctly
+* Verify that the dataset loaded correctly using head and shape.
 
 
 ---
