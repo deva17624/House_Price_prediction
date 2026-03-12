@@ -157,3 +157,5 @@ Store the trained model using pickle
 Build applications like web apps.
 
 A Streamlit web app(hugging space) where users input house features and get predicted price.
+
+link: https://huggingface.co/spaces/Deva9999/House_price_Prediction
